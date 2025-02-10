@@ -1,0 +1,2 @@
+wget --no-check-certificate -4 -t 3 --timeout=60 --user-agent="Mozilla/5.0" https://archive.org/download/panasonic_3do_interactive_multiplayer/20th%20Century%20Video%20Almanac%20%28USA%29.zip
+wget --no-check-certificate -4 -t 3 --timeout=60 --user-agent="Mozilla/5.0" http://archive.org/download/panasonic_3do_interactive_multiplayer/3D%20Atlas%20%28Europe%29.zip
