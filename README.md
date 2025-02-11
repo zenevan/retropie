@@ -9,3 +9,8 @@ usage:
 clone this repository
 cd wherever u put it
 python get_roms.py
+
+this will create a file in each directory under roms with a download.py for each system
+run this and it will download them in that directory.
+
+working on a wrapper, selection for what systems, optional other downloads etc.
